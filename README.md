@@ -1,4 +1,4 @@
-## Olá, sou Jefferson Moraes, e neste espaço trago ideias sobre programação, tecnologia, além de compartilhar todos os projetos que desenvolvo ao longo da minha jornada.
+## Olá! Eu sou Jefferson Moraes 🖐
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoraes1)](https://github.com/JeffersonMoraes1/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoraes1&hide=contribs,prs)
