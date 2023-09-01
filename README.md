@@ -1,14 +1,14 @@
 ## Olá! Eu sou Jefferson Moraes 🖐
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoraes1)](https://github.com/JeffersonMoraes1/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoraes1&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoraes1&show_icons=true&theme=dracula)
+<!-- 
+[![Jefferson Moraes Junior github stats](https://github-readme-stats.vercel.app/api?username=jeffersonmoraesjunior&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/jeffersonmoraesjunior/github-readme-stats)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmoraesjunior&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/jeffersonmoraesjunior/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg">
   <!--
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -17,10 +17,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
-</div>
   
-  ##
- 
+</div>
+<br> 
 <div> 
   <a href="https://www.linkedin.com/in/jeffersonmoraesjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:jeffersonjuniormoraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
