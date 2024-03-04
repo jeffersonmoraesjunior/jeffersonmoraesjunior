@@ -3,6 +3,16 @@
 <!-- 
 [![Jefferson Moraes Junior github stats](https://github-readme-stats.vercel.app/api?username=jeffersonmoraesjunior&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/jeffersonmoraesjunior/github-readme-stats)
 -->
+<ul dir="auto">
+<li>
+<p dir="auto">🌱 Estudos focados em Analise de Dados e Desenvolvimento Full Stack</p>
+</li>
+<li>
+<p dir="auto">🥋 Pratico Jiu-Jitsu nas horas vagas</p>
+</ul>
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmoraesjunior&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/jeffersonmoraesjunior/github-readme-stats)
 
 <div style="display: inline_block"><br>
