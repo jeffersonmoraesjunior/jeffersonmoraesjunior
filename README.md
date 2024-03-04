@@ -5,7 +5,7 @@
 -->
 <ul dir="auto">
 <li>
-<p dir="auto">🌱 Estudos focados em Analise de Dados e Desenvolvimento Full Stack</p>
+<p dir="auto">🌱 Estudos focados em Análise de Dados e Desenvolvimento Full Stack</p>
 </li>
 <li>
 <p dir="auto">🥋 Pratico Jiu-Jitsu nas horas vagas</p>
