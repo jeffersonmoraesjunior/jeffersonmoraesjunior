@@ -54,8 +54,8 @@
 
 ### 🎓 Certificações & Estudos
 
-- 🏆 **Databricks Certified Data Engineer Associate** (em andamento)
 - 📚 Pós Graduação em Engenharia de Dados pela PUC
+- 🏆 Databricks Certified Data Engineer Associate
 
 <!-- ---
 
