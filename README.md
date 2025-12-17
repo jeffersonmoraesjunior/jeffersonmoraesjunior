@@ -78,7 +78,7 @@ expertise = {
 ### 🥋 Sobre Mim
 
 - 🔭 Atualmente trabalhando com **Engenharia de Dados e Analytics**
-- 💪 Praticante de **Jiu-Jitsu** nas horas vagas
+- 💪 Faixa Preta de **Jiu-Jitsu** e praticante nas horas vagas
 - ⚡ Apaixonado por transformar dados em valor para o negócio
 
 ---
