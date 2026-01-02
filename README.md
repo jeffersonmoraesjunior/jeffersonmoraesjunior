@@ -39,7 +39,7 @@
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Airflow" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div> -->
+</div> 
 
 ---
 
@@ -50,7 +50,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonmoraesjunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmoraesjunior&layout=compact&langs_count=8&theme=tokyonight"/>  
 </div>
-
+-->
 ---
 
 ### 🎓 Certificações & Estudos
